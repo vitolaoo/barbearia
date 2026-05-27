@@ -1,2 +1,2 @@
 # barbearia
-Website
+Website: https://vitolaoo.github.io/barbearia/
